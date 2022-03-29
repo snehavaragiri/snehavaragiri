@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-snehavaragiri/snehavaragiri  ✨ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+snehavaragiri/snehavaragiri repository `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
